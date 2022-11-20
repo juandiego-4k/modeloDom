@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    margin-top: 5%;
+}
+
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+body{
+    background: url(img/lake-g3b4265acf_1920.jpg) no-repeat center;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+
+.img{
+    width: 500px;
+}
+
+.btn{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    background-color: rebeccapurple;
+    margin: 5%;
+}
+
+.titulo{
+    color: white;
+}
+
+.dom{
+    color: white;
+}
